@@ -111,8 +111,3 @@ MIT License — feel free to fork and build on it.
 Built by ANURAG CHUAHAN as part of a 5-hour challenge submission for enhancing SaaSquatch Leads.
 
 ```
-
----
-
-Let me know if you want a **version with your actual name or GitHub username** in the author section, or if you'd like me to help you write the **one-page rationale report next**!
-```
