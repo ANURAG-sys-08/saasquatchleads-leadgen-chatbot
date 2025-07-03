@@ -1,0 +1,37 @@
+[
+  {
+    "company": "TechNova",
+    "description": "AI-powered SaaS tool for marketing automation",
+    "size": 200,
+    "industry": "Technology",
+    "score": "hot"
+  },
+  {
+    "company": "FarmFresh Co",
+    "description": "Organic farm produce delivery service",
+    "size": 20,
+    "industry": "Agriculture",
+    "score": "cold"
+  },
+  {
+    "company": "CloudMesh",
+    "description": "Cloud infrastructure and DevOps solutions",
+    "size": 150,
+    "industry": "Technology",
+    "score": "warm"
+  },
+  {
+    "company": "LegalEase",
+    "description": "Legal document automation for law firms",
+    "size": 50,
+    "industry": "Legal",
+    "score": "warm"
+  },
+  {
+    "company": "QuickLoans",
+    "description": "Fast online personal and business loan approval",
+    "size": 100,
+    "industry": "Finance",
+    "score": "hot"
+  }
+]
