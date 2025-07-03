@@ -100,9 +100,7 @@ leadgen-chatbot/
 
 ---
 
-## 📄 License
 
-MIT License — feel free to fork and build on it.
 
 ---
 
